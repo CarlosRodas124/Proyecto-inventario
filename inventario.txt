@@ -1,0 +1,11 @@
+pan frances,50,1.0
+pan dulce,100,1.5
+pastel chocolate,20,40.0
+galletas,60,3.0
+cafe molido,200,15.0
+donas azucaradas,20,5.0
+bizcocho chocolate,40,7.0
+pan de ajo,30,3.5
+empanada de piña,10,10.0
+conchas,60,4.0
+tarta de manzana,5,35.0

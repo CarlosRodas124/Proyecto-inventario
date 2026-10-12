@@ -1,0 +1,18 @@
+2026-10-11 22:28:08 - Se agrego el Procutopan frances con 50 unidades y un precio de 1.0 quetzales 
+2026-10-11 22:29:00 - Se agrego el Procutopan dulce con 100 unidades y un precio de 1.5 quetzales 
+2026-10-11 22:29:23 - Se agrego el Procutopastel chocolate con 20 unidades y un precio de 40.0 quetzales 
+2026-10-11 22:29:55 - Se agrego el Procutogalletas con 60 unidades y un precio de 3.0 quetzales 
+2026-10-11 22:30:21 - Se agrego el Procutocafe molido con 200 unidades y un precio de 15.0 quetzales 
+2026-10-11 22:30:45 - Se agrego el Procutodonas azucaradas con 20 unidades y un precio de 5.0 quetzales 
+2026-10-11 22:31:08 - Se agrego el Procutobizcocho chocolate con 40 unidades y un precio de 7.0 quetzales 
+2026-10-11 22:32:05 - Se agrego el Procutopan de ajo con 50 unidades y un precio de 3.5 quetzales 
+2026-10-11 22:32:26 - Se agrego el Procutoempanada de piña con 10 unidades y un precio de 10.0 quetzales 
+2026-10-11 22:32:51 - Se agrego el Procutoconchas con 60 unidades y un precio de 4.0 quetzales 
+2026-10-11 22:33:12 - Se agrego el Procutotarta de manzana con 5 unidades y un precio de 35.0 quetzales 
+2026-10-11 22:34:42 - Se busco un producto pan ajo
+2026-10-11 22:34:57 - Se busco un producto productopan de ajo
+2026-10-11 22:35:11 - Se busco un producto productoa
+2026-10-11 22:35:25 - Se busco un producto productopan de ajo
+2026-10-11 22:35:57 - Se mostro el inventario
+2026-10-11 22:37:05 - Se registro una venta de 20 unidades, de pan de ajo a 3.5 quetzales cada unidad 
+2026-10-11 22:38:11 -  Se genero el reporde de ventas del dia 2026-10-11
